@@ -1,0 +1,10 @@
+.full-div {
+text-align: center;
+}
+.btn{
+    background-color: rgb(108, 104, 97);
+}
+.btn:hover{
+
+    background-color: rgb(141, 7, 89);
+}
